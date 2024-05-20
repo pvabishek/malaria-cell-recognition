@@ -49,9 +49,9 @@ Use random image selection for inference and display the prediction result.
 
 ## PROGRAM
 
-### Name: AFSAR JUMAIL S
+### Name: ABISHEK PV
 
-### Register Number: 212222240004
+### Register Number: 212222230003
 
 
 ```python
